@@ -11,7 +11,7 @@ ______ _     _____ _   _  _   __
                                 ⠀⠀⠀⠀⠀⠀⠀
 */                              
 //Jacob Turola for Markham Campus Library Makerspace                               
-//This code shows how to setup the serial monitor
+//This code shows how to setup a blinking light
 
 
 int lightpin = 10;//creates an integer variable that sets pin 10 to be named "lightpin"
